@@ -2,40 +2,51 @@
 
 > A curated list of resources for old world theare to cutting edge film
 
+This is meant to compliment the fine work over at the [EBU Awesome Broadcasting List](https://github.com/ebu/awesome-broadcasting)
+
+Mainly a repository of makers of equipment and software that can cross across many areas of "Audio Visual" and "Production"
 
 ## Contents
 
 - [Awesome Production ](#awesome-production-)
   - [Contents](#contents)
+  - [Resources](#resources)
   - [Hardware Manufacturers](#hardware-manufacturers)
     - [Audio](#audio)
     - [Cameras](#cameras)
-    - [Lighting, Rigging, \& Grip](#lighting-rigging--grip)
+    - [Lighting \& Grip](#lighting--grip)
+    - [Rigging \& Stunts](#rigging--stunts)
     - [Video Support](#video-support)
+    - [Communications](#communications)
     - [Broadcast Systems](#broadcast-systems)
     - [Cable and Infrastructure](#cable-and-infrastructure)
     - [Control Systems and Accessories](#control-systems-and-accessories)
     - [Power and Monitoring](#power-and-monitoring)
   - [Software](#software)
-    - [Software for Design \& Modelling](#software-for-design--modelling)
+    - [Design \& Modelling](#design--modelling)
     - [Rental \& Inventory Management](#rental--inventory-management)
     - [Media Servers \& Playback Tools](#media-servers--playback-tools)
     - [Cueing \& Show Control](#cueing--show-control)
     - [Scheduling \& Project Management](#scheduling--project-management)
 
+## Resources
+
+- [BMD Software](https://blackmagicdesignsupportdownloads.com/)
+- [Microphone Database](http://recordinghacks.com/microphones)
+- [Pierre-Henrys Awesome Video DB](https://www.pierrehenrypauly.com/database)
 
 ## Hardware Manufacturers
 
 ### Audio
 
-- [Allen & Heath](https://www.allen-heath.com/)
-- [Audinate | Dante](https://www.audinate.com/)
+- [Allen \& Heath](https://www.allen-heath.com/)
+- [Audinate \| Dante](https://www.audinate.com/)
 - [Audix](https://audixusa.com/)
 - [Biamp Systems](https://www.biamp.com/)
 - [Canford Audio](https://www.canford.co.uk/)
 - [Calrec](https://calrec.com/)
 - [Clock Audio](https://clockaudio.com/)
-- [Deity](https://deitymic.com/)
+- [Deity Microphones](https://deitymic.com/)
 - [DigiCo Audio](https://www.digico.biz/)
 - [Dan Dugan Sound Design](https://www.dandugan.com/)
 - [DPA Microphones](https://www.dpamicrophones.com/)
@@ -45,7 +56,9 @@
 - [JBL Commercial](https://jblcommercialproducts.com/en-US)
 - [JBL Pro](https://jblpro.com/en-US)
 - [K-Array](https://www.k-array.com/)
+- [Mackie](https://mackie.com/)
 - [MakePro Audio](https://makepro-x.com/)
+- [Midas](https://www.midasconsoles.com/)
 - [MOTU](https://motu.com/en-us/)
 - [Neumann](https://en-de.neumann.com/)
 - [QSC](https://www.qsc.com/)
@@ -58,6 +71,7 @@
 - [Sound Devices](https://www.sounddevices.com/)
 - [Symetrix](https://www.symetrix.co/)
 - [Tascam Audio Solutions](https://tascam.com/)
+- [Whirlwind](https://www.whirlwindusa.com/)
 - [Williams Sound](https://www.williamssound.com/)
 - [Yamaha](https://www.yamaha.com/2/proaudio/)
 - [Zoom Audio](https://zoomcorp.com/en/)
@@ -73,17 +87,13 @@
 - [Sony Pro](https://pro.sony/)
 - [Wooden Camera Professional Accessories](https://woodencamera.com/)
 
-### Lighting, Rigging, & Grip
+### Lighting & Grip
 
 - [Aputure Lighting](https://www.aputure.com/)
 - [Chroma-Q Lighting](https://www.chroma-q.com/)
-- [Columbus McKinnon](https://www.cmco.com/en-gb/)
 - [Dedolight](https://www.dedolight.com/)
 - [Elation](https://www.elationlighting.com/)
 - [ETC](https://www.etcconnect.com/)
-- [Eurotruss](https://www.eurotruss.com/)
-- [JR Clancy](https://www.jrclancy.com/)
-- [J Thomas Enginnering](https://www.jthomaseng.com/)
 - [Kino Flo Lighting](https://www.kinoflo.com/)
 - [Konig & Meyer](https://www.k-m.de/)
 - [Litepanels](https://www.litepanels.com/)
@@ -92,13 +102,22 @@
 - [Manfrotto](https://www.manfrotto.com/)
 - [Martin Lighting](https://www.martin.com/)
 - [Matthews Studio Equipment](https://www.msegrip.com/)
+- [Miller Camera Support](https://www.millertripods.com/)
 - [Penn-Elcom](https://www.penn-elcom.com/)
-- [Petzl](https://www.petzl.com/)
 - [Robert Juliat](https://www.robertjuliat.com/)
 - [Sachtler Tripods](https://www.sachtler.com/en/)
+
+### Rigging & Stunts
+
+- [Climbing Sutra](https://climbingsutra.com/)
+- [Columbus McKinnon](https://www.cmco.com/en-gb/)
+- [Eurotruss](https://www.eurotruss.com/)
+- [JR Clancy](https://www.jrclancy.com/)
+- [J Thomas Enginnering](https://www.jthomaseng.com/)
+- [Petzl](https://www.petzl.com/)
 - [Tait Towers](https://www.taittowers.com/)
 - [Tomcat Global](https://www.tomcatglobal.com/)
-- [Yates Gear](https://www.yatesgear.com/)
+- [Yates Gear](https://www.yatesgear.com/)- 
 
 ### Video Support
 
@@ -122,6 +141,13 @@
 - [TV Logic](https://www.tvlogic.tv/)
 - [Vaddio](https://www.legrandav.com/products/vaddio)
 
+### Communications
+
+- [Clear-Com](https://www.clearcom.com/)
+- [David Clark](https://www.davidclarkcompany.com/)
+- [RIEDEL Communications](https://www.riedel.net/)
+- [RTS](https://rtsintercoms.com/)
+
 ### Broadcast Systems
 
 - [Avid Media Solutions](https://www.avid.com/)
@@ -131,10 +157,9 @@
 - [LAWO](https://lawo.com/)
 - [PHABRIX](https://www.phabrix.com/)
 - [Ross Video Broadcast Solutions](https://www.rossvideo.com/)
-- [RIEDEL Communications](https://www.riedel.net/)
 - [Telos Alliance](https://telosalliance.com/)
 - [Tektronix](https://www.tek.com/)
-- 
+  
 ### Cable and Infrastructure
 
 - [Belden](https://www.belden.com/)
@@ -159,6 +184,8 @@
 - [Kramer](https://www.kramerav.com/)
 - [MakeProX](https://my.makepro-x.com/)
 - [Netgear](https://www.netgear.com)
+- [Shotoku](https://www.shotoku.co.uk/)
+- [Skaarhoj](https://www.skaarhoj.com/)
 - [Q-Sys](https://www.qsys.com/)
 
 ### Power and Monitoring
@@ -170,10 +197,13 @@
 
 ## Software
 
-### Software for Design & Modelling
+### Design & Modelling
 - [AutoCAD](https://www.autodesk.com/products/autocad/overview)
+- [D-Tools](https://www.d-tools.com/)
 - [SketchUp](https://www.sketchup.com/)
+- [Stardraw](https://www.stardraw.com/home)
 - [Vectorworks](https://www.vectorworks.net)
+- [XTEN-AV](https://xtenav.com/)   
 
 ### Rental & Inventory Management
 - [Alert Rental Software](https://www.alertrental.com/)
@@ -184,25 +214,24 @@
 
 ### Media Servers & Playback Tools
 - [CasparCG](https://casparcg.com/)
-- [DT Videolabs - Playback Pro](https://www.dtvideolabs.com/)
-- [Imimot - Mitti](https://imimot.com/)
+- [DT Videolabs \| Playback Pro](https://www.dtvideolabs.com/)
+- [Imimot \| Mitti](https://imimot.com/)
 - [Isadora](https://troikatronix.com/)
 - [Milliumin](https://www.millumin.com/)
 - [Resolume](https://www.resolume.com/)
-- [Watchout by Dataton](https://www.dataton.com/watchout)
+- [Dataton \| Watchout](https://www.dataton.com/watchout)
 
 ### Cueing & Show Control
 - [Bitfocus Companion](https://bitfocus.io/companion)
 - [CasparCG](https://casparcg.com/)
-- [Figure 53's QLab](https://qlab.app/)
-- [Onime](https://www.getontime.no/)
+- [QLab](https://qlab.app/)
+- [Ontime](https://www.getontime.no/)
 - [Show Cue System (SCS)](https://showcuesystems.com/)
 
 ### Scheduling & Project Management
-- [D-Tools](https://www.d-tools.com/)
+
 - [Resource Guru](https://resourceguruapp.com/)
 - [R2](https://www.unibiz.com/)
-- [XTEN-AV](https://xtenav.com/)
 
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
