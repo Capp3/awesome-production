@@ -33,7 +33,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 
 - [BMD Software](https://blackmagicdesignsupportdownloads.com/)
 - [Microphone Database](http://recordinghacks.com/microphones)
-- [Pierre-Henrys Awesome Video DB](https://www.pierrehenrypauly.com/database)
+- [**Pierre-Henrys Awesome Video DB**](https://www.pierrehenrypauly.com/database)
 
 ## Hardware Manufacturers
 
@@ -46,6 +46,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Canford Audio](https://www.canford.co.uk/)
 - [Calrec](https://calrec.com/)
 - [Clock Audio](https://clockaudio.com/)
+- [D \& B Audio ](https://www.dbaudio.com/)
 - [Deity Microphones](https://deitymic.com/)
 - [DigiCo Audio](https://www.digico.biz/)
 - [Dan Dugan Sound Design](https://www.dandugan.com/)
@@ -56,8 +57,10 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [JBL Commercial](https://jblcommercialproducts.com/en-US)
 - [JBL Pro](https://jblpro.com/en-US)
 - [K-Array](https://www.k-array.com/)
+- [L-Acoustics](https://www.l-acoustics.com/)
 - [Mackie](https://mackie.com/)
 - [MakePro Audio](https://makepro-x.com/)
+- [Meyer Sound](https://meyersound.com/)
 - [Midas](https://www.midasconsoles.com/)
 - [MOTU](https://motu.com/en-us/)
 - [Neumann](https://en-de.neumann.com/)
