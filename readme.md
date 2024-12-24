@@ -19,9 +19,9 @@ Mainly a repository of makers of equipment and software that can cross across ma
     - [Video Support](#video-support)
     - [Communications](#communications)
     - [Broadcast Systems](#broadcast-systems)
-    - [Cable and Infrastructure](#cable-and-infrastructure)
-    - [Control Systems and Accessories](#control-systems-and-accessories)
-    - [Power and Monitoring](#power-and-monitoring)
+    - [Cable \& Infrastructure](#cable--infrastructure)
+    - [Control Systems \& Accessories](#control-systems--accessories)
+    - [Power \& Monitoring](#power--monitoring)
   - [Software](#software)
     - [Design \& Modelling](#design--modelling)
     - [Rental \& Inventory Management](#rental--inventory-management)
@@ -87,7 +87,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Sony Pro](https://pro.sony/)
 - [Wooden Camera Professional Accessories](https://woodencamera.com/)
 
-### Lighting & Grip
+### Lighting \& Grip
 
 - [Aputure Lighting](https://www.aputure.com/)
 - [Chroma-Q Lighting](https://www.chroma-q.com/)
@@ -107,7 +107,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Robert Juliat](https://www.robertjuliat.com/)
 - [Sachtler Tripods](https://www.sachtler.com/en/)
 
-### Rigging & Stunts
+### Rigging \& Stunts
 
 - [Climbing Sutra](https://climbingsutra.com/)
 - [Columbus McKinnon](https://www.cmco.com/en-gb/)
@@ -117,7 +117,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Petzl](https://www.petzl.com/)
 - [Tait Towers](https://www.taittowers.com/)
 - [Tomcat Global](https://www.tomcatglobal.com/)
-- [Yates Gear](https://www.yatesgear.com/)- 
+- [Yates Gear](https://www.yatesgear.com/)
 
 ### Video Support
 
@@ -160,7 +160,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Telos Alliance](https://telosalliance.com/)
 - [Tektronix](https://www.tek.com/)
   
-### Cable and Infrastructure
+### Cable \& Infrastructure
 
 - [Belden](https://www.belden.com/)
 - [Canare Cables](https://www.canare.com/)
@@ -172,7 +172,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Penn Elcom](https://www.penn-elcom.com/)
 - [Switchcraft](https://www.switchcraft.com/)
 
-### Control Systems and Accessories
+### Control Systems \& Accessories
 
 - [AMX Audio Video Control Systems](https://www.amx.com/en)
 - [Arista](https://www.arista.com/) 
@@ -188,8 +188,9 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Skaarhoj](https://www.skaarhoj.com/)
 - [Q-Sys](https://www.qsys.com/)
 
-### Power and Monitoring
+### Power \& Monitoring
 
+- [APC](https://www.apc.com/)
 - [Austin Hughes](https://www.austin-hughes.com/)
 - [Eizo Monitors](https://www.eizo.com/)
 - [Furman Power](https://www.furmanpower.com/)
@@ -197,7 +198,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 
 ## Software
 
-### Design & Modelling
+### Design \& Modelling
 - [AutoCAD](https://www.autodesk.com/products/autocad/overview)
 - [D-Tools](https://www.d-tools.com/)
 - [SketchUp](https://www.sketchup.com/)
@@ -205,14 +206,14 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Vectorworks](https://www.vectorworks.net)
 - [XTEN-AV](https://xtenav.com/)   
 
-### Rental & Inventory Management
+### Rental \& Inventory Management
 - [Alert Rental Software](https://www.alertrental.com/)
 - [Hiretrack](https://www.hiretracknx.com/)
 - [Propared](https://www.propared.com/)
 - [Rentman](https://rentman.io/)
 - [Rentopian](https://rentopian.com/)
 
-### Media Servers & Playback Tools
+### Media Servers \& Playback Tools
 - [CasparCG](https://casparcg.com/)
 - [DT Videolabs \| Playback Pro](https://www.dtvideolabs.com/)
 - [Imimot \| Mitti](https://imimot.com/)
@@ -221,14 +222,14 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Resolume](https://www.resolume.com/)
 - [Dataton \| Watchout](https://www.dataton.com/watchout)
 
-### Cueing & Show Control
+### Cueing \& Show Control
 - [Bitfocus Companion](https://bitfocus.io/companion)
 - [CasparCG](https://casparcg.com/)
 - [QLab](https://qlab.app/)
 - [Ontime](https://www.getontime.no/)
 - [Show Cue System (SCS)](https://showcuesystems.com/)
 
-### Scheduling & Project Management
+### Scheduling \& Project Management
 
 - [Resource Guru](https://resourceguruapp.com/)
 - [R2](https://www.unibiz.com/)
