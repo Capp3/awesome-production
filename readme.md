@@ -68,6 +68,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [RØDE Microphones](https://rode.com/)
 - [Radial Engineering](https://www.radialeng.com/)
 - [Renkus-Heinz](https://www.renkus-heinz.com/)
+- [RF Venue](https://www.rfvenue.com/)
 - [Schoeps](https://schoeps.de/en/)
 - [Sennheiser](https://en-uk.sennheiser.com/)
 - [Shure](https://www.shure.com/en-US)
@@ -137,6 +138,8 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Leyard](https://www.leyard.com/)
 - [MediaStar Systems](https://mediastarsystems.com/)
 - [Newline](https://newline-interactive.com/uk/)
+- [Novastar](https://www.novastar.tech/)
+- [PixelHue](https://www.pixelhue.com/)
 - [Planar](https://www.planar.com/products/lcd-video-walls/)
 - [Roe Visual](https://www.roevisual.com/en/)
 - [Sonoran](https://www.sonoranvideosystems.com)
@@ -236,6 +239,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 
 - [Resource Guru](https://resourceguruapp.com/)
 - [R2](https://www.unibiz.com/)
+- [Soundbase](https://soundbase.app/)
 
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
