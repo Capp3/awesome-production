@@ -32,8 +32,9 @@ Mainly a repository of makers of equipment and software that can cross across ma
 ## Resources
 
 - [BMD Software](https://blackmagicdesignsupportdownloads.com/)
+- [The Electronic Connector Book](https://connectorbook.com/)
 - [Microphone Database](http://recordinghacks.com/microphones)
-- [**Pierre-Henrys Awesome Video DB**](https://www.pierrehenrypauly.com/database)
+- [**Pierre-Henrys Amazing Video DB**](https://www.pierrehenrypauly.com/database)
 
 ## Hardware Manufacturers
 
@@ -205,14 +206,18 @@ Mainly a repository of makers of equipment and software that can cross across ma
 ## Software
 
 ### Design \& Modelling
-- [AutoCAD](https://www.autodesk.com/products/autocad/overview)
+
+- [Autodesk | AutoCAD](https://www.autodesk.com/)
 - [D-Tools](https://www.d-tools.com/)
+- [H2R Gear](https://h2rgear.com/)
 - [SketchUp](https://www.sketchup.com/)
 - [Stardraw](https://www.stardraw.com/home)
 - [Vectorworks](https://www.vectorworks.net)
+- [WireCAD](https://www.wirecad.com/)
 - [XTEN-AV](https://xtenav.com/)   
 
 ### Rental \& Inventory Management
+
 - [Alert Rental Software](https://www.alertrental.com/)
 - [Hiretrack](https://www.hiretracknx.com/)
 - [Propared](https://www.propared.com/)
@@ -220,6 +225,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Rentopian](https://rentopian.com/)
 
 ### Media Servers \& Playback Tools
+
 - [CasparCG](https://casparcg.com/)
 - [DT Videolabs \| Playback Pro](https://www.dtvideolabs.com/)
 - [Imimot \| Mitti](https://imimot.com/)
@@ -229,6 +235,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Dataton \| Watchout](https://www.dataton.com/watchout)
 
 ### Cueing \& Show Control
+
 - [Bitfocus Companion](https://bitfocus.io/companion)
 - [CasparCG](https://casparcg.com/)
 - [QLab](https://qlab.app/)
