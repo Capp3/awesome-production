@@ -249,7 +249,15 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Tektronix](https://www.tek.com/)
 - [Telos Alliance](https://telosalliance.com/)
   
-
+https://www.cloudstudiomasters.com/tools/
+https://www.gnuralnet.com/livetoair
+https://mpv-usa.com/
+https://www.disguise.one/en#
+https://pro.arkaos.com/
+https://pixera.one/en/
+https://7thsense.one/
+https://www.neton.live/products/
+https://motion-impossible.com/products/agito/agito-sports/
 
 ## Software
 
