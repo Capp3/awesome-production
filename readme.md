@@ -39,18 +39,18 @@ Mainly a repository of makers of equipment and software that can cross across ma
 
 ## Resources
 
-- [BMD Software](https://blackmagicdesignsupportdownloads.com/)
-- [The Electronic Connector Book](https://connectorbook.com/)
+- [BMD Software](https://blackmagicdesignsupportdownloads.com/) - Easy to navigate Blackmagic Software
+- [The Electronic Connector Book](https://connectorbook.com/) - Identify connectors of all sorts
 - [Microphone Database](http://recordinghacks.com/microphones)
-- [**Pierre-Henrys Amazing Video DB**](https://www.pierrehenrypauly.com/database)
+- [**Pierre-Henrys Amazing Video DB**](https://www.pierrehenrypauly.com/database) - Video test & reference files
 
 ## Hardware Manufacturers
 
 ### Audio
 
-- [Allen & Heath](https://www.allen-heath.com/)
-- [Audinate | Dante](https://www.audinate.com/)
-- [Audix](https://audixusa.com/)
+- [Allen & Heath](https://www.allen-heath.com/) - Audio mixers
+- [Audinate | Dante](https://www.audinate.com/) - Digital audio transport
+- [Audix](https://audixusa.com/) 
 - [Biamp Systems](https://www.biamp.com/)
 - [Calrec](https://calrec.com/)
 - [Canford Audio](https://www.canford.co.uk/)
@@ -123,6 +123,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Future Automation](https://www.futureautomation.co.uk/)
 - [Kramer](https://www.kramerav.com/)
 - [MakeProX](https://my.makepro-x.com/)
+- [Neton](https://www.neton.live/products/)
 - [Q-Sys](https://www.qsys.com/)
 - [Shotoku](https://www.shotoku.co.uk/)
 - [Skaarhoj](https://www.skaarhoj.com/)
@@ -229,6 +230,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Grass Valley Video Systems](https://www.grassvalley.com/)
 - [Green Hippo](https://www.green-hippo.com/)
 - [MediaStar Systems](https://mediastarsystems.com/)
+- [Motion Impossible](https://motion-impossible.com/) 
 - [Newline](https://newline-interactive.com/uk/)
 - [Novastar](https://www.novastar.tech/)
 - [PixelHue](https://www.pixelhue.com/)
@@ -249,16 +251,6 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Tektronix](https://www.tek.com/)
 - [Telos Alliance](https://telosalliance.com/)
   
-https://www.cloudstudiomasters.com/tools/
-https://www.gnuralnet.com/livetoair
-https://mpv-usa.com/
-https://www.disguise.one/en#
-https://pro.arkaos.com/
-https://pixera.one/en/
-https://7thsense.one/
-https://www.neton.live/products/
-https://motion-impossible.com/products/agito/agito-sports/
-
 ## Software
 
 ### Design \& Modelling
