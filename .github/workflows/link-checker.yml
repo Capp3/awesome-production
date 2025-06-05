@@ -1,0 +1,64 @@
+name: Link Checker
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Run at 00:00 UTC every Monday
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scripts/requirements.txt
+        
+    - name: Run link checker
+      run: |
+        python scripts/check_links.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Create Issue
+      if: failure()
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const fs = require('fs');
+          const report = fs.readFileSync('link_check_report.json', 'utf8');
+          const data = JSON.parse(report);
+          
+          const issueTitle = `Link Check Report - ${new Date().toISOString().split('T')[0]}`;
+          
+          let issueBody = '## Link Check Report\n\n';
+          issueBody += 'The following links need attention:\n\n';
+          
+          for (const link of data.problematic_links) {
+            issueBody += `### ${link.section}\n`;
+            issueBody += `- Original URL: ${link.original_url}\n`;
+            issueBody += `- Status: ${link.status}\n`;
+            if (link.final_url) {
+              issueBody += `- Final URL: ${link.final_url}\n`;
+            }
+            issueBody += `- Error: ${link.error}\n\n`;
+          }
+          
+          await github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: issueTitle,
+            body: issueBody
+          });

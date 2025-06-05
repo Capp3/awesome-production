@@ -250,7 +250,7 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Ross Video Broadcast Solutions](https://www.rossvideo.com/)
 - [Tektronix](https://www.tek.com/)
 - [Telos Alliance](https://telosalliance.com/)
-  
+
 ## Software
 
 ### Design \& Modelling
@@ -263,7 +263,6 @@ Mainly a repository of makers of equipment and software that can cross across ma
 - [Vectorworks](https://www.vectorworks.net)
 - [WireCAD](https://www.wirecad.com/)
 - [XTEN-AV](https://xtenav.com/)
-
 
 ### Rental \& Inventory Management
 
