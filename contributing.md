@@ -1,25 +1,51 @@
-# Contribution Guidelines
+## 🤝 Contributing to Awesome AV Manufacturers
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
+Thanks for your interest in contributing! This list aims to be a trusted and well-maintained resource for professionals in live events, broadcast, theatre, and AV production.
+
+### 📌 Contribution Guidelines
+
+#### ✅ What to Add
+
+We welcome suggestions in the following areas:
+
+* Reputable manufacturers of audio, video, lighting, or control equipment
+* Standards organisations or certification/training platforms
+* Professional-grade software used in production
+* Useful free/open tools directly relevant to AV workflows
+
+#### 🚫 What Not to Add
+
+Please avoid:
+
+* Generic consumer products (e.g., Amazon basics)
+* Obsolete or defunct manufacturers (unless notable historically)
+* Affiliate links or self-promotions without relevance
+
+### 🧰 How to Contribute
+
+1. **Fork the repo** and create a new branch.
+2. **Edit `README.md`** and follow the existing formatting:
+
+   * One manufacturer per line
+   * Name in \[brackets], URL in (parentheses), followed by a concise description.
+   * Group items under the appropriate section.
+3. **Use alphabetic order** within each section or subcategory.
+4. **Submit a pull request (PR)** with a clear description of your addition or edit.
+
+### 🧼 Style Guide
+
+* Use British English spellings (e.g., "visualisation" not "visualization")
+* Descriptions should be short (2–5 words)
+* Include only direct links to manufacturer or official product sites
+
+### 📝 Example
+
+```
+- [DiGiCo](https://digico.biz/) – High-end audio desks
+```
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+By contributing, you agree to license your additions under the same license as this project.
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
-
-
-## Updating your PR
-
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+Thank you for helping keep this list accurate, useful, and professional! 🙏

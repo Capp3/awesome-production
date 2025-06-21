@@ -1,308 +1,343 @@
-# Awesome Production [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🎚️ Awesome Production [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources for old world theare to cutting edge film
+A curated list of manufacturers, vendors, standards organisations, and useful resources for live events, concert touring, theatre, and broadcast.
 
-This is meant to compliment the fine work over at the [EBU Awesome Broadcasting List](https://github.com/ebu/awesome-broadcasting)
+---
 
-Mainly a repository of makers of equipment and software that can cross across many areas of "Audio Visual" and "Production"
+## 📚 Table of Contents
 
-## Contents
+* [🎧 Audio](#audio)
+* [🎥 Video](#video)
+* [💡 Lighting & Rigging](#lighting--rigging)
+* [🌐 Networking & Control](#networking--control)
+* [🛠️ Infrastructure & Hardware](#infrastructure--hardware)
+* [🔌 Power & Distribution](#power--distribution)
+* [💻 Software](#software)
+* [📡 Streaming & Broadcast](#streaming--broadcast)
+* [📖 Standards & Education](#standards--education)
+* [🏢 Suppliers & Hire Companies](#suppliers--hire-companies)
+* [📞 Communications](#communications)
 
-- [Awesome Production ](#awesome-production-)
-  - [Contents](#contents)
-  - [Resources](#resources)
-  - [Hardware Manufacturers](#hardware-manufacturers)
-    - [Audio](#audio)
-    - [Communications](#communications)
-    - [Computers \& Networking](#computers--networking)
-    - [Control Systems \& Accessories](#control-systems--accessories)
-    - [Grip](#grip)
-    - [Infrastructure](#infrastructure)
-      - [Cable](#cable)
-      - [Connectors](#connectors)
-      - [Hardware \& Supplies](#hardware--supplies)
-    - [Lighting](#lighting)
-    - [Power \& Monitoring](#power--monitoring)
-    - [Rigging \& Climbing](#rigging--climbing)
-    - [Video](#video)
-      - [Cameras](#cameras)
-      - [Displays \& Projection](#displays--projection)
-      - [Video Support](#video-support)
-      - [Broadcast Systems](#broadcast-systems)
-  - [Software](#software)
-    - [Design \& Modelling](#design--modelling)
-    - [Rental \& Inventory Management](#rental--inventory-management)
-    - [Media Management](#media-management)
-    - [Media Servers \& Playback Tools](#media-servers--playback-tools)
-    - [Cueing \& Show Control](#cueing--show-control)
-    - [Scheduling \& Project Management](#scheduling--project-management)
+---
 
-## Resources
+### 🎧 Audio
 
-- [BMD Software](https://blackmagicdesignsupportdownloads.com/) - Easy to navigate Blackmagic Software
-- [The Electronic Connector Book](https://connectorbook.com/) - Identify connectors of all sorts
-- [Microphone Database](http://recordinghacks.com/microphones)
-- [**Pierre-Henrys Amazing Video DB**](https://www.pierrehenrypauly.com/database) - Video test & reference files
+#### 🎚️ Mixing Consoles
 
-## Hardware Manufacturers
+* [Allen & Heath](https://www.allen-heath.com/) – Mixers and control surfaces
+* [Avid](https://www.avid.com/) – Pro Tools and VENUE systems
+* [Calrec Audio](https://calrec.com/) – Broadcast audio mixing
+* [DiGiCo](https://digico.biz/) – High-end audio desks
+* [Lawo](https://www.lawo.com/) – IP audio solutions
+* [Midas](https://www.midasconsoles.com/) – Analogue and digital consoles
+* [SSL (Solid State Logic)](https://www.solidstatelogic.com/) – Broadcast and studio consoles
+* [Yamaha](https://www.yamahaproaudio.com/) – Digital mixing consoles
 
-### Audio
+#### 🎙️ Microphones & IEMs
 
-- [Allen & Heath](https://www.allen-heath.com/) - Audio mixers
-- [Audinate | Dante](https://www.audinate.com/) - Digital audio transport
-- [Audix](https://audixusa.com/) 
-- [Biamp Systems](https://www.biamp.com/)
-- [Calrec](https://calrec.com/)
-- [Canford Audio](https://www.canford.co.uk/)
-- [Clock Audio](https://clockaudio.com/)
-- [D & B Audio](https://www.dbaudio.com/)
-- [Dan Dugan Sound Design](https://www.dandugan.com/)
-- [Deity Microphones](https://deitymic.com/)
-- [DigiCo Audio](https://www.digico.biz/)
-- [DPA Microphones](https://www.dpamicrophones.com/)
-- [Earthworks](https://earthworksaudio.com/)
-- [Electro-Voice](https://www.electrovoice.com/)
-- [Glensound](https://www.glensound.co.uk/)
-- [JBL Commercial](https://jblcommercialproducts.com/en-US)
-- [JBL Pro](https://jblpro.com/en-US)
-- [K-Array](https://www.k-array.com/)
-- [L-Acoustics](https://www.l-acoustics.com/)
-- [Mackie](https://mackie.com/)
-- [MakePro Audio](https://makepro-x.com/)
-- [Meyer Sound](https://meyersound.com/)
-- [Midas](https://www.midasconsoles.com/)
-- [MOTU](https://motu.com/en-us/)
-- [Neumann](https://en-de.neumann.com/)
-- [QSC](https://www.qsc.com/)
-- [Radial Engineering](https://www.radialeng.com/)
-- [Renkus-Heinz](https://www.renkus-heinz.com/)
-- [RF Venue](https://www.rfvenue.com/)
-- [RØDE Microphones](https://rode.com/)
-- [Schoeps](https://schoeps.de/en/)
-- [Sennheiser](https://en-uk.sennheiser.com/)
-- [Shure](https://www.shure.com/en-US)
-- [Sound Devices](https://www.sounddevices.com/)
-- [Symetrix](https://www.symetrix.co/)
-- [Tascam Audio Solutions](https://tascam.com/)
-- [Whirlwind](https://www.whirlwindusa.com/)
-- [Williams Sound](https://www.williamssound.com/)
-- [Yamaha](https://www.yamaha.com/2/proaudio/)
-- [Zoom Audio](https://zoomcorp.com/en/)
+* [AKG](https://www.akg.com/) – Broadcast and live audio
+* [Audio-Technica](https://www.audio-technica.com/) – Live and studio microphones
+* [DPA Microphones](https://www.dpamicrophones.com/) – Precision microphones
+* [Earthworks](https://earthworksaudio.com/) – Studio and measurement mics
+* [Neumann](https://en-de.neumann.com/) – High-end microphones
+* [Sennheiser](https://www.sennheiser.com/) – Mics, IEM, and RF systems
+* [Shure](https://www.shure.com/) – Wireless and microphones
+* [Ultimate Ears Pro](https://pro.ultimateears.com/) – Custom IEM solutions
+* [Westone](https://westoneaudio.com/) – In-ear monitors
 
-### Communications
+#### 🔊 Loudspeakers & Amplifiers
 
-- [Clear-Com](https://www.clearcom.com/)
-- [David Clark](https://www.davidclarkcompany.com/)
-- [RIEDEL Communications](https://www.riedel.net/)
-- [RTS](https://rtsintercoms.com/)
+* [DAS Audio](https://www.dasaudio.com/) – Line arrays and amplifiers
+* [d\&b audiotechnik](https://www.dbaudio.com/) – Loudspeakers and DSP
+* [Funktion-One](https://www.funktion-one.com/) – Dance and club audio
+* [JBL Professional](https://jblpro.com/) – Professional PA and studio monitors
+* [L-Acoustics](https://www.l-acoustics.com/) – Touring and install PA systems
+* [Lab Gruppen](https://labgruppen.com/) – Amplifiers for touring
+* [Martin Audio](https://martin-audio.com/) – Touring and install PA
+* [Meyer Sound](https://meyersound.com/) – Advanced loudspeaker systems
+* [Nexo](https://www.nexo-sa.com/) – Compact loudspeaker systems
+* [Powersoft](https://www.powersoft.com/) – Class D power amps
+* [QSC](https://www.qsc.com/) – Amps, DSP, and speakers
+* [RCF](https://www.rcf.it/) – Sound reinforcement speakers
+* [Turbosound](https://www.turbosound.com/) – Loudspeaker solutions
 
-### Computers & Networking
+#### 📡 RF & Wireless
 
-- [Apple](https://www.apple.com)
-- [Arista](https://www.arista.com/)
-- [ASUS](https://www.asus.com/)
-- [Cisco](https://www.cisco.com/)
-- [Dell](https://www.dell.com)
-- [Extreme Networks](https://www.extremenetworks.com/)
-- [HP](https://www.hp.com)
-- [Intel](https://www.intel.com/)
-- [Lenovo](https://www.lenovo.com)
-- [Lenovo ThinkStation](https://www.lenovo.com/us/en/workstations/)
-- [Netgear](https://www.netgear.com)
-- [Supermicro](https://www.supermicro.com/)
-- [Ubiquiti](https://www.ui.com/)
-- [Zotac](https://www.zotac.com/)
-- [Scan Computers - 3XS Systems](https://www.scan.co.uk/3xs)
-- [AV Stumpfl](https://www.avstumpfl.com/)
+* [Axient Digital (Shure)](https://www.shure.com/en-GB/products/wireless-systems/axient_digital) – Wireless microphone system
+* [Lectrosonics](https://www.lectrosonics.com/) – RF systems for film & live
+* [RF Venue](https://www.rfvenue.com/) – Antenna distribution
+* [Wisycom](https://wisycom.com/) – Wireless and antenna systems
 
-### Control Systems & Accessories
+#### 🎛️ Interfaces, DSP & Control
 
-- [AMX Audio Video Control Systems](https://www.amx.com/en)
-- [Crestron](https://www.crestron.com/)
-- [Elgato](https://www.elgato.com/)
-- [Future Automation](https://www.futureautomation.co.uk/)
-- [Kramer](https://www.kramerav.com/)
-- [MakeProX](https://my.makepro-x.com/)
-- [Neton](https://www.neton.live/products/)
-- [Q-Sys](https://www.qsys.com/)
-- [Shotoku](https://www.shotoku.co.uk/)
-- [Skaarhoj](https://www.skaarhoj.com/)
+* [BSS Audio](https://bssaudio.com/) – Signal processing solutions
+* [Focusrite](https://pro.focusrite.com/) – Audio interfaces and preamps
+* [Ferrofish](https://ferrofish.com/) – Converters and ADAT gear
+* [MOTU](https://motu.com/) – Audio/MIDI interfaces
+* [Q-SYS](https://www.qsys.com/) – Networked audio control
+* [RME](https://www.rme-audio.de/) – Interfaces and converters
+* [Symetrix](https://www.symetrix.co/) – DSP and install audio
+* [XTA](https://www.audiocore.co.uk/) – Audio system processors
 
-### Grip
+#### 📐 Measurement & Analysis
 
-- [Konig & Meyer](https://www.k-m.de/)
-- [Manfrotto](https://www.manfrotto.com/)
-- [Matthews Studio Equipment](https://www.msegrip.com/)
-- [Miller Camera Support](https://www.millertripods.com/)
-- [Sachtler Tripods](https://www.sachtler.com/en/)
-- [Wooden Camera Professional Accessories](https://woodencamera.com/)
+* [AudioTools](https://www.studio-six.com/) – iOS audio analysis suite
+* [NTi Audio](https://www.nti-audio.com/) – Audio measurement tools
+* [Rational Acoustics (Smaart)](https://www.rationalacoustics.com/) – Audio analysis software
+* [Room EQ Wizard (REW)](https://www.roomeqwizard.com/) – Free acoustic analysis
 
-### Infrastructure
+#### 💸 Budget & Entry-Level
 
-#### Cable
+* [Behringer](https://www.behringer.com/) – Budget audio gear
 
-- [Belden](https://www.belden.com/)
-- [Canare Cables](https://www.canare.com/)
-- [CORDIAL Cables](https://www.cordial-cables.com/)
-- [FS Data Centre Products](https://www.fs.com/)
-- [Hosa Technology](https://hosatech.com/)
-- [Mogami Cables](https://www.mogamicable.com/)
+### 🎥 Video
 
-#### Connectors
+#### 🎬 Cameras & Acquisition
 
-- [Lemo](https://www.lemo.com/)
-- [Neutrik](https://www.neutrik.com/)
-- [Switchcraft](https://www.switchcraft.com/)
+* [ARRI](https://www.arri.com/) – Digital cinema cameras
+* [Canon](https://www.canon.co.uk/video-cameras/) – Professional video cameras
+* [Grass Valley](https://www.grassvalley.com/) – Cameras and broadcast gear
+* [Panasonic](https://business.panasonic.co.uk/professional-camera/) – Studio and PTZ cameras
+* [RED](https://www.red.com/) – High-end cinema cameras
+* [Sony](https://pro.sony/) – Broadcast and PTZ cameras
 
-#### Hardware & Supplies
+#### 🎚️ Vision Mixers & Production
 
-- [Penn Elcom](https://www.penn-elcom.com/)
-- [Rose Brand](https://www.rosebrand.com/)
+* [Blackmagic Design](https://www.blackmagicdesign.com/) – Switchers and converters
+* [FOR-A](https://www.for-a.com/) – Video processors and switchers
+* [NewTek](https://www.newtek.com/) – Tricaster live production systems
+* [Ross Video](https://www.rossvideo.com/) – Production switchers and routers
+* [vMix](https://www.vmix.com/) – Live production software
 
-### Lighting
+#### 💾 Playback & Media Servers
 
-- [Aputure Lighting](https://www.aputure.com/)
-- [Chroma-Q Lighting](https://www.chroma-q.com/)
-- [Dedolight](https://www.dedolight.com/)
-- [Elation](https://www.elationlighting.com/)
-- [Enttec](https://www.enttec.com/)
-- [ETC](https://www.etcconnect.com/)
-- [Kino Flo Lighting](https://www.kinoflo.com/)
-- [Litepanels](https://www.litepanels.com/)
-- [Luxam](https://luxam.com/) - Lighting for Museums
-- [MA Lighting](https://www.malighting.com/)
-- [Robert Juliat](https://www.robertjuliat.com/)
+* [disguise](https://www.disguise.one/) – Live event media servers
+* [Green Hippo](https://www.green-hippo.com/) – Media servers
+* [Isadora](https://troikatronix.com/) – Visual programming environment
+* [PlaybackPro](https://www.dtvideolabs.com/playbackpro-plus/) – Mac-based video playback
+* [QLab](https://figure53.com/qlab/) – Audio, video, and lighting playback
+* [Resolume](https://resolume.com/) – VJ and media server software
+* [WATCHOUT](https://www.dataton.com/watchout) – Multi-display presentation system
 
-### Power \& Monitoring
+#### 🧱 LED Processing & Display
 
-- [APC](https://www.apc.com/)
-- [Austin Hughes](https://www.austin-hughes.com/)
-- [Furman Power](https://www.furmanpower.com/)
-- [Motion Labs](https://www.motionlabs.com/)
+* [Absen](https://www.absen.com/) – LED video wall manufacturer
+* [Brompton Technology](https://www.bromptontech.com/) – LED video processors
+* [Colorlight](https://en.colorlightinside.com/) – LED controller hardware
+* [INFiLED](https://www.infiled.com/) – LED display and rental panels
+* [NovaStar](https://www.novastar.tech/) – LED display control systems
+* [ROE Visual](https://www.roevisual.com/) – LED panels for events
+* [Unilumin](https://www.unilumin.com/) – LED display solutions
 
-### Rigging & Climbing
+#### 🔌 Signal Conversion & Tools
 
-- [Climbing Sutra](https://climbingsutra.com/)
-- [Columbus McKinnon](https://www.cmco.com/en-gb/)
-- [Eurotruss](https://www.eurotruss.com/)
-- [J Thomas Engineering](https://www.jthomaseng.com/)
-- [JR Clancy](https://www.jrclancy.com/)
-- [Martin Lighting](https://www.martin.com/)
-- [Petzl](https://www.petzl.com/)
-- [Tait Towers](https://www.taittowers.com/)
-- [Tomcat Global](https://www.tomcatglobal.com/)
-- [Yates Gear](https://www.yatesgear.com/)
+* [AJA](https://www.aja.com/) – Video I/O and conversion
+* [Apantac](https://www.apantac.com/) – Multiviewers and extenders
+* [Decimator](https://decimator.com/) – Compact video converters
+* [Lynx Technik](https://www.lynx-technik.com/) – Signal processing modules
+* [Matrox](https://www.matrox.com/en) – Video processing and encoding
 
-### Video
+#### 🧰 Capture, Control & Utilities
 
-#### Cameras
+* [Arista](https://www.aristaproav.com/) – Pro AV and IP video gear
+* [Elgato](https://www.elgato.com/) – Streaming and capture gear
+* [Lightware](https://lightware.com/) – Pro AV signal extension
+* [Magewell](https://www.magewell.com/) – Video capture and encoders
 
-- [Arri Cameras and Lighting](https://www.arri.com/)
-- [BirdDog](https://birddog.tv/)
-- [Blackmagic](https://www.blackmagicdesign.com/)
-- [RED Cameras](https://www.red.com/)
-- [Sony Pro](https://pro.sony/)
+### 💡 Lighting & Rigging
 
-#### Displays & Projection
+#### 🎛️ Lighting Control Consoles
 
-- [Absen](https://www.absen.com/)
-- [Atomos Recorders and Monitors](https://www.atomos.com/)
-- [Clevertouch Technologies](https://www.clevertouch.com/uk/home)
-- [Eizo Monitors](https://www.eizo.com/)
-- [JVC Pro](https://eu.jvc.com/pro)
-- [Leyard](https://www.leyard.com/)
-- [Lightware](https://www.lightware.com/)
-- [Panasonic ProAV](https://na.panasonic.com/us/audio-video-solutions/professional-video)
-- [Planar](https://www.planar.com/products/lcd-video-walls/)
-- [Roe Visual](https://www.roevisual.com/en/)
-- [TV Logic](https://www.tvlogic.tv/)
+* [Avolites](https://www.avolites.com/) – Lighting consoles and media
+* [Chamsys](https://www.chamsyslighting.com/) – Lighting control consoles
+* [ETC](https://www.etcconnect.com/) – Lighting control and fixtures
+* [GrandMA (MA Lighting)](https://www.malighting.com/) – GrandMA lighting control desks
+* [High End Systems (Hog)](https://www.highend.com/) – Lighting desks and fixtures
+* [Zero 88](https://www.etcconnect.com/zero88/) – Compact lighting solutions
 
-#### Video Support
+#### 💡 Lighting Fixtures & Effects
 
-- [AJA Video Systems](https://www.aja.com/)
-- [Analog Way](https://www.analogway.com/americas/)
-- [Atlona](https://atlona.com/)
-- [Barco](https://www.barco.com/en/)
-- [Brompton](https://www.bromptontech.com/)
-- [Datavideo](https://www.datavideo.com/)
-- [Disguise](https://www.disguise.one/)
-- [Extron](https://www.extron.com/)
-- [Grass Valley Video Systems](https://www.grassvalley.com/)
-- [Green Hippo](https://www.green-hippo.com/)
-- [MediaStar Systems](https://mediastarsystems.com/)
-- [Motion Impossible](https://motion-impossible.com/) 
-- [Newline](https://newline-interactive.com/uk/)
-- [Novastar](https://www.novastar.tech/)
-- [PixelHue](https://www.pixelhue.com/)
-- [Sonoran](https://www.sonoranvideosystems.com)
-- [Tripleplay](https://tripleplay.tv/)
-- [Vaddio](https://www.legrandav.com/products/vaddio)
-- [TVU Networks](https://www.tvunetworks.com/)
+* [Ayrton](https://www.ayrton.eu/) – Innovative lighting fixtures
+* [Chauvet](https://www.chauvetprofessional.com/) – Pro lighting and video
+* [Clay Paky](https://www.claypaky.it/) – Moving head lights
+* [Elation](https://www.elationlighting.com/) – Entertainment lighting systems
+* [GLP](https://www.glp.de/) – LED and moving lights
+* [Martin Professional](https://www.martin.com/) – Stage and architectural lighting
+* [Robe](https://www.robe.cz/) – Intelligent lighting
+* [Robert Juliat](https://www.robertjuliat.com/) – Followspots and theatre lighting
 
-#### Broadcast Systems
+#### 🎯 Followspot & Tracking Systems
 
-- [Avid Media Solutions](https://www.avid.com/)
-- [EVS Video Systems](https://evs.com/)
-- [Evertz](https://evertz.com/)
-- [Grass Valley Video Systems](https://www.grassvalley.com/)
-- [LAWO](https://lawo.com/)
-- [PHABRIX](https://www.phabrix.com/)
-- [Ross Video Broadcast Solutions](https://www.rossvideo.com/)
-- [Tektronix](https://www.tek.com/)
-- [Telos Alliance](https://telosalliance.com/)
-  
-## Software
+* [Follow-Me](https://www.follow-me.nu/) – Remote followspot systems
+* [zactrack](https://www.zactrack.com/) – Automated tracking systems
 
-### Design \& Modelling
+#### 🪝 Rigging & Hoists
 
-- [Autodesk | AutoCAD](https://www.autodesk.com/)
-- [D-Tools](https://www.d-tools.com/)
-- [H2R Gear](https://h2rgear.com/)
-- [SketchUp](https://www.sketchup.com/)
-- [Stardraw](https://www.stardraw.com/home)
-- [Vectorworks](https://www.vectorworks.net)
-- [WireCAD](https://www.wirecad.com/)
-- [XTEN-AV](https://xtenav.com/)
+* [ChainMaster](https://www.chainmaster.de/) – Entertainment hoist systems
+* [CM Lodestar](https://www.cm-et.com/) – Chain motors and hoists
+* [Kinesys](https://www.kinesys.com/) – Rigging automation systems
+* [Movecat](https://www.movecat.de/) – Motion control and automation
+
+#### 🏗️ Trussing & Staging
+
+* [Global Truss](https://www.globaltruss.com/) – Aluminium trussing
+* [Milos](https://www.milossystems.com/) – Modular trussing systems
+* [Prolyte](https://www.prolyte.com/) – Truss and staging
+* [Total Solutions Group](https://www.totalsolutionsgroup.uk.com/) – Truss and rigging
+
+#### ⚡ Dimming & Power Control
+
+* [LSC Lighting](https://www.lsclighting.com/) – Power and dimming systems
+* [Lex Products](https://www.lexproducts.com/) – Power distro for entertainment
+* [Motion Labs](https://www.motionlabs.com/) – Touring power systems
+* [SES](https://www.sesuk.com/) – Power distribution solutions
+
+### 🌐 Networking & Control
+
+#### 🖧 Network Switches & Infrastructure
+
+* [Cisco Meraki](https://meraki.cisco.com/) – Managed network solutions
+* [Luminex](https://www.luminex.be/) – Network switches and nodes
+* [Netgear AV Line](https://www.netgear.com/) – AV-focused switches
+* [TP-Link Omada](https://www.tp-link.com/en/omada/) – Managed networking platform
+* [Ubiquiti](https://ui.com/) – Enterprise wireless networks
+
+#### 🧠 Protocols & Standards
+
+* [Audinate (Dante)](https://www.audinate.com/) – AV over IP audio protocol
+* [AVnu Alliance](https://avnu.org/) – AVB network protocol certification
+
+#### 🎛️ Control Interfaces & Automation
+
+* [Bitfocus Companion](https://bitfocus.io/companion) – Control interface platform
+* [Elgato Stream Deck](https://www.elgato.com/uk/en/p/stream-deck-xl) – Custom control interface
+
+#### 🧮 Real-time Graphics & Visual Engines
+
+* [Notch](https://www.notch.one/) – Real-time graphics engine
+* [TouchDesigner](https://derivative.ca/) – Visual programming for AV
+
+#### 🖥️ KVM & IP Extension
+
+* [Adder](https://www.adder.com/) – KVM and AV extension
+* [Black Box](https://www.blackbox.com/) – Networking and video over IP
+* [IHSE](https://www.ihse.com/) – High-performance KVM systems
 
 
-### Rental \& Inventory Management
+### 🛠️ Infrastructure & Hardware
 
-- [Alert Rental Software](https://www.alertrental.com/)
-- [Hiretrack](https://www.hiretracknx.com/)
-- [Propared](https://www.propared.com/)
-- [Rentman](https://rentman.io/)
-- [Rentopian](https://rentopian.com/)
+#### 🔌 Connectors & Cabling
 
-### Media Management
+* [Belden](https://www.belden.com/) – Professional-grade cabling
+* [Canare](https://www.canare.com/) – Cables and connectors
+* [Neutrik](https://www.neutrik.com/) – Connectors and patching systems
+* [Sommer Cable](https://www.sommercable.com/) – Audio/video cable systems
 
-- [Hedge](https://hedge.co/)
-- [Imagine Products](https://www.imagineproducts.com/)
-- [Ottomatic](https://ottomatic.io/)
-- [Pomfort](https://pomfort.com/)
+#### 🔭 Fibre & Signal Transport
 
-### Media Servers \& Playback Tools
+* [Bluebell Opticom](https://www.bluebell.tv/) – Fibre optic AV transmission
 
-- [CasparCG](https://casparcg.com/)
-- [DT Videolabs \| Playback Pro](https://www.dtvideolabs.com/)
-- [Imimot \| Mitti](https://imimot.com/)
-- [Isadora](https://troikatronix.com/)
-- [Milliumin](https://www.millumin.com/)
-- [Resolume](https://www.resolume.com/)
-- [Dataton \| Watchout](https://www.dataton.com/watchout)
+#### 🎛️ AV Routing & Processing
 
-### Cueing \& Show Control
+* [Crestron](https://www.crestron.com/) – Integrated AV control systems
+* [Extron](https://www.extron.com/) – Signal distribution and control
+* [Kramer Electronics](https://www.kramerav.com/) – AV signal management
 
-- [Bitfocus Companion](https://bitfocus.io/companion)
-- [CasparCG](https://casparcg.com/)
-- [QLab](https://qlab.app/)
-- [Ontime](https://www.getontime.no/)
-- [Show Cue System (SCS)](https://showcuesystems.com/)
+#### 🗄️ Racks & Enclosures
 
-### Scheduling \& Project Management
+* [Middle Atlantic](https://www.legrandav.com/products/middle-atlantic-products) – Racks and enclosures
 
-- [Resource Guru](https://resourceguruapp.com/)
-- [R2](https://www.unibiz.com/)
-- [Soundbase](https://soundbase.app/)
+### 🔌 Power & Distribution
 
+#### ⚡ Power Conditioning & Backup
+
+* [Furman](https://www.furmanpower.com/) – Power conditioning
+* [Juice Goose](https://juicegoose.com/) – Power sequencing
+* [Tripp Lite](https://www.tripplite.com/) – Power and backup systems
+
+#### 🔌 Entertainment Power Distribution
+
+* [Lex Products](https://www.lexproducts.com/) – Power distro for entertainment
+* [Motion Labs](https://www.motionlabs.com/) – Touring power and motor control
+* [Power Gems](https://www.powergems.com/) – Power control for lighting
+* [SES Entertainment Services](https://www.sesuk.com/) – UK power distribution
+
+### 💻 Software
+
+#### 🧱 Design & Visualisation
+
+* [Autodesk](https://www.autodesk.com/) – AutoCAD and Revit drawing
+* [Capture](https://www.capture.se/) – Lighting visualisation software
+* [Vectorworks](https://www.vectorworks.net/) – Spotlight for lighting design
+* [WYSIWYG](https://cast-soft.com/) – Lighting design and visualisation
+
+#### 🎛️ Show Control & Playback
+
+* [Isadora](https://troikatronix.com/) – Live control and programming
+* [Millumin](https://www.millumin.com/) – Show creation and mapping
+* [PlaybackPro](https://www.dtvideolabs.com/playbackpro-plus/) – Mac-based video playback
+* [QLab](https://figure53.com/qlab/) – Show control for Mac
+* [vMix](https://www.vmix.com/) – Software-based vision mixer
+* [Watchout](https://www.dataton.com/watchout) – Multi-display media playback
+
+#### 🎨 Media & VJ Software
+
+* [Resolume](https://resolume.com/) – VJ and content playback
+
+#### 📡 Streaming & Capture
+
+* [OBS Studio](https://obsproject.com/) – Free live streaming suite
+* [Open Broadcaster Software (OBS)](https://obsproject.com/) – Free live streaming suite
+
+### 📺 Streaming & Broadcast
+
+#### 🌐 Video-over-IP & Protocols
+
+* [NewTek NDI](https://www.ndi.tv/) – Video-over-IP protocol
+
+#### 💻 Software-Based Production
+
+* [OBS Studio](https://obsproject.com/) – Free live streaming suite
+* [StreamYard](https://streamyard.com/) – Cloud streaming studio
+* [vMix](https://www.vmix.com/) – Software-based vision mixer
+* [Wirecast](https://www.telestream.net/wirecast/) – Live production software
+
+#### 📡 Hardware Encoders & Wireless Video
+
+* [AJA Video Systems](https://www.aja.com/) – Video I/O and conversion
+* [LiveU](https://www.liveu.tv/) – Live video transmission solutions
+* [Teradek](https://www.teradek.com/) – Wireless video systems
+
+
+### 📖 Standards & Education
+
+#### 🏛️ Industry Standards & Advocacy
+
+* [AES (Audio Engineering Society)](https://aes.org/) – Audio engineering standards and events
+* [AVIXA](https://www.avixa.org/) – AV industry trade association
+* [PLASA](https://www.plasa.org/) – Entertainment tech association (UK-based)
+* [SMPTE](https://www.smpte.org/) – Motion picture and TV engineering standards
+* [USITT](https://www.usitt.org/) – Theatre technology organisation
+
+#### 🎓 Training & Certification
+
+* [Dante Certification](https://www.audinate.com/certification) – AV networking training
+* [ETCP](https://etcp.esta.org/) – Certified rigging and electrical programmes
+* [LightingTrainer](https://www.lightingtrainer.com/) – Online lighting console training
+* [Vectorworks University](https://university.vectorworks.net/) – CAD training for Vectorworks
+
+### 📞 Communications
+
+#### 🎧 Intercom & Comms Systems
+
+* [Clear-Com](https://www.clearcom.com/) – Wired and wireless intercom systems
+* [Green-GO](https://www.greengodigital.com/) – IP-based comms systems
+* [Riedel Communications](https://www.riedel.net/) – Digital intercom and media networks
+* [RTS Intercom](https://www.rtsintercoms.com/) – Broadcast and production comms
+
+#### 📡 Wireless & RF Coordination
+
+* [Pliant Technologies](https://plianttechnologies.com/) – Professional wireless intercom
+* [Wisycom](https://wisycom.com/) – RF coordination and wireless systems
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
