@@ -176,6 +176,7 @@ A curated list of manufacturers, vendors, standards organisations, and useful re
 * [AJA](https://www.aja.com/) – Video I/O and conversion
 * [Apantac](https://www.apantac.com/) – Multiviewers and extenders
 * [Decimator](https://decimator.com/) – Compact video converters
+* [Imagine Communications](https://imaginecommunications.com/) – Video processing and encoding
 * [Lynx Technik](https://www.lynx-technik.com/) – Signal processing modules
 * [Matrox](https://www.matrox.com/en) – Video processing and encoding
 
